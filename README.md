@@ -19,7 +19,7 @@ B. **Preparation**
 >- 6 Pilot lamp 12V DC (2 red, 2 yellow, 2 green)
 >- 1 Adaptor AC/DC 12V
 
-C.**Assembling**
+C. **Assembling**
 >To make sure all components went to the correct pin input/output, follow this step:
 >- DFRobotV2 pH sensor --> pin A0
 >- DS18B20 temperature sensor --> pin 2
@@ -162,7 +162,7 @@ void lampu()
     }
 }
 ```
-E.**Documentation**
+E. **Documentation**
 
 ![Wiring Progress](https://github.com/AlAkyas02/pH-and-Temperature-Detection-for-Fish-Pond/assets/154904312/a286606a-1564-40fa-a705-f9d3ea67f95d)
 >Wiring Progress
@@ -175,6 +175,6 @@ E.**Documentation**
 https://github.com/AlAkyas02/pH-and-Temperature-Detection-for-Fish-Pond/assets/154904312/90fa98a1-3a99-45c7-8db0-fad280b65851
 >The project video
 
-F.**Document**
+F. **Document**
 
 [pH and Temperature Detection for Fish Pond.pdf](https://github.com/AlAkyas02/pH-and-Temperature-Detection-for-Fish-Pond/files/13776532/pH.and.Temperature.Detection.for.Fish.Pond.pdf)
